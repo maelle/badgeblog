@@ -1,0 +1,14 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2023-07-03"
+categories: [news, code, analysis]
+---
+
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/1882/badge)](https://bestpractices.coreinfrastructure.org/projects/1882)
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
